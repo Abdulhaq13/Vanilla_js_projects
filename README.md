@@ -5,6 +5,7 @@ The goal of these projects is to practice core JavaScript concepts, DOM manipula
 
 ## Projects
 
+- Quiz Game
 - Color Palette Generator
 - Kanban Board (Drag and Drop)
 - More projects coming soon...
